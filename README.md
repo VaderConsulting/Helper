@@ -1,6 +1,6 @@
 # Helper
 
-VB6 working copy of `Helper` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: Helper. Output: `Helper.exe`. Installation Helper.
+VB6 Installation Helper Windows service host (`Helper.exe` / service name `InstallationHelper`) built with `NTSVC.ocx`, MSXML 4.0, and Scripting Runtime; driven by `config.xml` / `Description.xml` on a timer. Open `Helper.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
